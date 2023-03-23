@@ -1,0 +1,12 @@
+"use strict";
+let avengers = 123;
+let power;
+let end;
+let nombre = "Martin";
+avengers = "Dr Strange";
+console.log(avengers.charAt(0));
+avengers = 123.1212;
+console.log(avengers.toFixed(2));
+console.log(nombre[0]);
+console.log(power);
+console.log(end);
